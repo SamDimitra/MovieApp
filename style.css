@@ -1,0 +1,33 @@
+#searchtext{
+    color: aquamarine;
+    font-size: 50px;
+}
+
+#searchbutton{
+    background-color: azure;
+    color: black;
+}
+
+
+
+
+
+
+
+.list-group-item{
+    background-color: aliceblue;
+    
+}
+
+
+@media(min-width:950px){
+    #movies .col-md-3 .well{
+        height: 390px;
+    }
+    
+    #movies .col-md-3 img{
+        height: 240px;
+    }
+
+}
+
